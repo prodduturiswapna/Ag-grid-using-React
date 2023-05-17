@@ -8,6 +8,10 @@ An Advanced Data grid is developed by using React.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
+npm init -y for installing packages
+npm install for node modules
+
+
 Run the following command:
 `npm install Ag-Grid-react`
 
