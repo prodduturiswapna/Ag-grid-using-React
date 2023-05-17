@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+    font-family: sans-serif;
+  margin-bottom: 0px;
+}
+
+h1  {
+ text-align: center;
+ margin:0;
+ padding-top:40px ;
+
+}
+
+.ag-theme-balham {
+/* align-items: center; */
+
+
+display: auto;
+--ag-background-color: rgb(245, 166, 229);
+/* --ag-foreground-color: rgb(31, 225, 86); */
+/* --ag-font-size: 200px; */
+/* --ag-font-style: bold; */
+--ag-row-hover-color:rgb(26, 184, 68);
+
+--ag-row-border-color:green;
+--ag-data-color:rgb(10, 10, 10);
+--ag-font-size: 17px;
+--ag-balham-active-color: red;
+
+
+/* --ag-header-column-separator-display:solid; */
+    --ag-header-column-separator-height: 100%;
+    /* --ag-header-column-separator-width: 10px; */
+    --ag-header-column-separator-color: rgb(237, 68, 1);
+    --ag-icon-font-family: "Font Awesome 5 Free";
+
+    --ag-range-selection-background-color-2: rgba(132, 236, 132, 0.19);
+    --ag-range-selection-highlight-color: red;
+    
+    --ag-header-background-color: rgb(117, 219, 228);
+    
+    --ag-borders-input: dotted 5px;
+    --ag-input-border-color: orange;
+
+    --ag-header-column-resize-handle-display: block;
+    --ag-header-column-resize-handle-height: 100%;
+    --ag-header-column-resize-handle-width: 15px;
+    --ag-header-column-resize-handle-color: orange;
+
+    --ag-header-cell-moving-background-color:rgb(38, 20, 202);
+
+   
+
+   
+}
+
